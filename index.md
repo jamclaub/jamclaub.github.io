@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Program examples
 
 [Project 1 Title](/sample_page)
 
