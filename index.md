@@ -4,18 +4,14 @@
 
 ### Program examples
 
-[DNA Processor (C#)]() 
-Github Link https://github.com/jamclaub/DNAcore3.git allows the preview of FASTQ files and the selection of setting to trim FASTQ files.
+[DNA Processor (C#)](https://github.com/jamclaub/DNAcore3.git) 
 
 ---
 [Simple Bank Program (Java)](https://github.com/jamclaub/JavaBank.git)
 
-A simple bank program 
-
 ---
 [Warhammer 40k Army Builder (C#)](https://github.com/Ian1993/352-Semester-Group-Project.git)
 
-Streamlines the selection of units while displaying the various statictics of each unit.
 ---
 
 ### Category Name 2
