@@ -12,9 +12,9 @@
 [Warhammer 40k Army Builder (C#)](https://github.com/Ian1993/352-Semester-Group-Project.git)
 
 ---
-### stuff
-[Resume](img src = "images/Resume.pdf?raw=true")
- 
+### Stuff
+[Resume]()
+ <img src = "images/Resume.pdf?raw=true"/>
  
  ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
