@@ -4,15 +4,15 @@
 
 ### Program examples
 
-[Project 1 Title](/sample_page)
+[DNA Processor (C#)]()
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Simple Bank Program (Java)]()
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Warhammer 40k Army Builder]()
 
 
 ---
