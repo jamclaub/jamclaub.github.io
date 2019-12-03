@@ -13,7 +13,7 @@
 
 ---
 ### stuff
- [Resume](img src = "images/Resume.pdf?raw=true")
+[Resume](img src = "images/Resume.pdf?raw=true")
  
  
  ---
