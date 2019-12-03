@@ -4,15 +4,15 @@
 
 ### Program examples
 
-[DNA Processor (C#)]()
+[DNA Processor (C#)](https://github.com/jamclaub/DNAcore3.git)
 
 
 ---
-[Simple Bank Program (Java)]()
+[Simple Bank Program (Java)](https://github.com/jamclaub/JavaBank.git)
 
 
 ---
-[Warhammer 40k Army Builder (C#)]()
+[Warhammer 40k Army Builder (C#)](https://github.com/Ian1993/352-Semester-Group-Project.git)
 
 
 ---
