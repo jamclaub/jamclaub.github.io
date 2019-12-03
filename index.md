@@ -5,8 +5,8 @@
 ### Program examples
 
 [DNA Processor (C#)]() 
+Github Link https://github.com/jamclaub/DNAcore3.git allows the preview of FASTQ files and the selection of setting to trim FASTQ files.
 
-Github Link  https://github.com/jamclaub/DNAcore3.git Allows the preview of FASTQ files, selection of settings and trimming of FASTQ files.
 ---
 [Simple Bank Program (Java)](https://github.com/jamclaub/JavaBank.git)
 
