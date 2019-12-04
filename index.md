@@ -12,7 +12,7 @@
 [Warhammer 40k Army Builder (C#)](https://github.com/Ian1993/352-Semester-Group-Project.git)
 
 ---
-![Resume](images/Resume.pdf)
+[Resume](images/Resume.pdf)
 
 
  ---
