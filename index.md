@@ -13,7 +13,7 @@
 
 ---
 
-[Resume](images/Resume.pdf?raw=true)
+![Resume](images/Resume.pdf)
 
 
  ---
