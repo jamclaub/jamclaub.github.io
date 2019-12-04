@@ -13,6 +13,7 @@
 
 ---
 
+
 ![Resume](images/Resume.pdf)
 
  ---
