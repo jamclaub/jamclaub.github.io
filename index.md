@@ -2,7 +2,7 @@
 
 ---
 
-### Program examples
+### Programs
 
 [DNA Processor (C#)](https://github.com/jamclaub/DNAcore3.git)
 
